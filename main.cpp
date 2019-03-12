@@ -10,6 +10,8 @@ int long Factorial (int long Number)
     {
         return Number*Factorial(Number-1);
     }
+    
+    return 1;
 }
 
 
